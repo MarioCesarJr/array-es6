@@ -1,4 +1,4 @@
-´´´javascript
+```javascript
 
 const arr = [1, 5, 8, 9, 10];
 
@@ -30,4 +30,4 @@ const find = arr.find(function(item) {
 
 console.log(find);
 
-´´´
+```
